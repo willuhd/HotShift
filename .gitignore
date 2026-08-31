@@ -17,14 +17,3 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.icloud
-
-# Project specific
-.venv
-/data/
-/datasets/
-/src/bold/
-*.h5
-*.parquet
-__pycache__/
-*.pyc
-.pytest_cache/
